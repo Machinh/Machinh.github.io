@@ -16,7 +16,7 @@ timezone:
 
 title: Machine # the main title
 
-tagline: 「🇧🇷」 Um pentester e bug bounty hunter, atualmente estudando cibersegurança. # it will display as the subtitle
+tagline: 「🇧🇷」 Um pentester e bug bounty hunter, atualmente estudando cibersegurança. white hat # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   portfolio, blog, Machine, Mach1nee, github
