@@ -10,6 +10,54 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
         <a href="https://github-readme-stats.vercel.app/api?username=Mach1nee&amp;show_icons=true&amp;theme=tokyonight" class="popup img-link  shimmer"><img src="https://github-readme-stats.vercel.app/api?username=Mach1nee&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 300px; height: auto;" loading="lazy"></a>
     </div>
 
+ <section>
+            <h2>Ferramentas/Linguagens</h2>
+            <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Ferramenta 1" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://imgs.search.brave.com/S8uA-YURz_J9vBdxYWYvQ2AzFm2teFoTn1IFVUjNN0s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDlmMjlmZGYw/ZTgwODgzNDcwN2Ew/NTQ5M2QzYTA0NzM4/NjRmZjY2YjdiNTlj/Njk1N2U2ZTZjYWMz/NTE0NzVjYy93d3cu/a2FsaS5vcmcv" alt="Ferramenta 2" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Ferramenta 3" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/OS-Linux-icon.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://cirt.net/files/alienlogo_3.gif" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+                <li style="margin: 10px;">
+                    <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                </li>
+            </ul>
+        </section>
+
  <section class="certificates" id="certificates">
         <h3>Certificadoss</h3>
         <ul>
@@ -20,6 +68,8 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
             <li><a href="https://star.ibsec.com.br/certificado?consulta=3546585475">27001 Audit</a></li>
         </ul>
     </section>
+
+
 
 <h2>Mais sobre mim</h2>
 
