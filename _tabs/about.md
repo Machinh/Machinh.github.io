@@ -11,7 +11,7 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
     </div>
 
  <section class="certificates" id="certificates">
-        <h3>Certificates</h3>
+        <h3>Certificadoss</h3>
         <ul>
             <li><a href="https://hermes.dio.me/certificates/XVY4GSWC.pdf">DIO Cybersecurity Specialist Formation</a></li>
             <li><a href="https://academy.hackershive.io/verificar/SyoCyk1VVc/">Hackers Hive Metasploit Framework Expert</a></li>
@@ -21,7 +21,7 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
         </ul>
     </section>
 
-<h2>More about me</h2>
+<h2>Mais sobre mim</h2>
 
 * [BugCrowd](https://bugcrowd.com/Mach1ne)
 
@@ -29,7 +29,7 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
 
 * [Github](https://github.com/Mach1nee/)
 
-## My CVEs/Vulnerabilities
+## Minhas CVEs/Vulnerabilidades
 
 | CVE/Vuln | Title |
 | ----------- | ----------- |
