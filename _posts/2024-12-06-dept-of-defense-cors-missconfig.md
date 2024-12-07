@@ -1,5 +1,5 @@
 ---
-title: "US Dept of Defense ClickJacking"
+title: "US Dept of Defense DC3 Cros Missconfig"
 date: 2024-12-06 13:00:00 -0300
 categories: [Vulnerability]
 tags: [Cors Missconfig]
