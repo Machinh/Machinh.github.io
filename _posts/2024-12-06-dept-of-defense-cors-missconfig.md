@@ -2,7 +2,7 @@
 title: "US Dept of Defense ClickJacking"
 date: 2024-12-06 13:00:00 -0300
 categories: [Vulnerability]
-tags: [ClickJacking]
+tags: [Cors Missconfig]
 ---
 
 # Cors Missconfig no departamento de defesa dos eua (Department of Defense Cyber Crime Center: DC3)
