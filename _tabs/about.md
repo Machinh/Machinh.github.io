@@ -18,4 +18,4 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
 | CVE/Vuln | Title |
 | ----------- | ----------- |
 | [ClickJacking - 05 Dec 2024](https://www.cve.org/CVERecord?id=CVE-2023-7253) | Server Security Misconfiguration > Clickjacking > Non-Sensitive Action |
-| [Exposure of Sensitive Files - Confidencial]() | Sensitive Data Exposure > Disclosure of Secrets > Intentionally Public, Sample or Invalid |
+| [Exposure of Sensitive Files - Confidencial](https://www.cve.org/CVERecord?id=CVE-2023-7253) | Sensitive Data Exposure > Disclosure of Secrets > Intentionally Public, Sample or Invalid |
