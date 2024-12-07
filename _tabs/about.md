@@ -14,9 +14,8 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
         <h3>Certificates</h3>
         <ul>
             <li><a href="https://hermes.dio.me/certificates/XVY4GSWC.pdf">DIO Cybersecurity Specialist Formation</a></li>
-            <li><a href="NULL">Hackers Hive Cybersecurity Specialist</a></li>
-            <li><a href="academy.hackershive.io/verificar/SyoCyk1VVc">Hackers Hive Metasploit Framework Expert</a></li>
-            <li><a href="academy.hackershive.io/verificar/icVxtRJROa">Hackers Hive Cyber Threat Hunting</a></li>
+            <li><a href="https://academy.hackershive.io/verificar/SyoCyk1VVc/">Hackers Hive Metasploit Framework Expert</a></li>
+            <li><a href="https://academy.hackershive.io/verificar/icVxtRJROa">Hackers Hive Cyber Threat Hunting</a></li>
             <li><a href="https://ead.academiadeforensedigital.com.br/cert/Zyr3kTlr0ajFQmEIOW9">Forense Academy(AFD) Digital Forense Expert</a></li>
             <li><a href="https://star.ibsec.com.br/certificado?consulta=3546585475">27001 Audit</a></li>
         </ul>
