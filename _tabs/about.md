@@ -26,34 +26,34 @@ Um pentester que se dedica a participar de programas de bug bounty, além de res
                     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Ferramenta 5" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Ferramenta 6" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="Ferramenta 7" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Ferramenta 8" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="Ferramenta 9" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/OS-Linux-icon.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/OS-Linux-icon.png" alt="Ferramenta 10" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://cirt.net/files/alienlogo_3.gif" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://cirt.net/files/alienlogo_3.gif" alt="Ferramenta 11" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Ferramenta 12" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Ferramenta 13" style="width: 50px; height: 50px;">
                 </li>
                 <li style="margin: 10px;">
-                    <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Ferramenta 4" style="width: 50px; height: 50px;">
+                    <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Ferramenta 14" style="width: 50px; height: 50px;">
                 </li>
             </ul>
         </section>
